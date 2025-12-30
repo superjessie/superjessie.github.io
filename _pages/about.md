@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yingjie Fu, a final-year Ph.D. candidate at Peking University, supervised by Professor [Tao Xie](https://taoxiease.github.io/). My research primarily focuses on AI programming and the Evaluation of Large Language Models. I also maintain broad interests in interdisciplinary areas intersecting computer science with society and education.
+I am Yingjie Fu, a final-year Ph.D. candidate at Peking University, supervised by Professor [Tao Xie](https://taoxiease.github.io/). My research primarily focuses on **AI programming** and **Effective Evaluation of Large Language Models**. I also maintain broad interests in interdisciplinary areas intersecting computer science with society and education.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
