@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yingjie (Jessie) Fu's Homepage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
