@@ -3,7 +3,7 @@ title: "The First Prompt Counts the Most! An Evaluation of Large Language Models
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-# excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Large Language Models, Example-Based Code Generation, Prompt Engineering, Empirical Study, Multi-Turn Interaction'
 date: 2025-06-23
 venue: "ISSTA'25"
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3728947'
