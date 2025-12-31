@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+# excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+date: 2025-06-23
+venue: "ISSTA'25"
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3728947'
+# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+The capabilities of Large Language Models (LLMs) in code generation have been extensively studied, particularly for implementing target functionalities from natural-language descriptions. As an alternative to natural language, input-output (I/O) examples provide an accessible, unambiguous, and flexible way to describe functionalities. However, their inherent diversity, opaqueness, and incompleteness impose greater challenges for understanding and implementing the target requirements. Therefore, generating code from I/O examples (i.e., example-based code generation) provides a new perspective, allowing us to additionally evaluate LLMs’ capability to infer target functionalities from limited information and to process new-form requirements. However, related research about LLMs in example-based code generation remains largely unexplored. To fill this gap, this paper presents the first comprehensive study on example-based code generation using LLMs. To address the incorrectness caused by the incompleteness of I/O examples, we adopt an iterative evaluation framework and formalize the objective of example-based code generation as two sequential sub-objectives: generating code conforming to the given examples and generating code that successfully implements the target functionalities from (iteratively) given examples. We assess six state-of-the-art LLMs using a new benchmark of 172 diverse target functionalities (derived from HumanEval and CodeHunt). The results demonstrate that when requirements are described using iterative I/O examples rather than natural language, the LLMs’ score decreases by over 60%, indicating that example-based code generation remains challenging for the evaluated LLMs. Notably, the vast majority (even over 95%) of successfully implemented functionalities are achieved in the first round of the iterations, suggesting that the LLMs struggle to effectively utilize the iteratively supplemented requirements. Furthermore, we find that combining I/O examples with even imprecise and fragmental natural language descriptions greatly improves LLM performance, and the selection of initial I/O examples can also influence the score, suggesting opportunities for prompt optimization. These findings highlight the importance of early prompts during interactions and offer critical insights and implications for enhancing LLM-based code generation.
