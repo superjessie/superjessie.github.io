@@ -3,9 +3,11 @@ title: "The First Prompt Counts the Most! An Evaluation of Large Language Models
 collection: publications
 category: conferences
 permalink: /publication/2025-06-08-paper-title-number-5
+excerpt: 'Large Language Models, Example-Based Code Generation, Prompt Engineering, Empirical Study, Multi-Turn Interaction'
 date: 2025-06-23
 venue: "The International Symposium on Software Testing and Analysis (ISSTA)"
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3728947'
+citation: 'Yingjie Fu, Bozhou Li, Linyi Li, Wentao Zhang, and Tao Xie. 2025. The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation. Proc. ACM Softw. Eng. 2, ISSTA, Article ISSTA070 (July 2025), 24 pages. https://doi.org/10.1145/3728947'
 ---
 **KEYWORDS:** Large Language Models, Example-Based Code Generation, Prompt Engineering, Empirical Study, Multi-Turn Interaction.
 
