@@ -2,7 +2,7 @@
 title: "The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation"
 collection: publications
 category: conferences
-permalink: /publication/2025-06-08-paper-title-number-5
+permalink: /publication/2025-06-08-paper-title-number-1
 date: 2025-06-23
 venue: "The International Symposium on Software Testing and Analysis (ISSTA)"
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3728947'
